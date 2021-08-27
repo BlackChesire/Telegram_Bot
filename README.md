@@ -1,2 +1,1 @@
-# Telegram_Bot
-chat bot for telegram app
+bot for telegram deployed on heroku 
